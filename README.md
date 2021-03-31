@@ -1,8 +1,12 @@
 # spartan3starterkit
 
-Files and info for opberon risc station on such kit.
+Files and info for opberon risc station on such kit. see license.txt
 
 adapter is a small addon board for sd card and ps/2 mouse.
 
+xc3sprog is a jtag & fpga programming tool.
+
 pong-x is a separate pong clone with ps/2 kbd and VGA.
+
+ug130.pdf is spartan3 starterkit manual from (c) Xilinx.
 
