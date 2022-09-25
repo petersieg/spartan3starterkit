@@ -1,6 +1,6 @@
 # spartan3starterkit
 
-Files and info for opberon risc station on such kit. see license.txt Link: http://www.projectoberon.com/
+Files and info for oberon risc station on such kit. see license.txt Link: http://www.projectoberon.com/
 
 adapter is a small addon board for sd card and ps/2 mouse.
 
